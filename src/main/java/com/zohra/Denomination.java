@@ -15,10 +15,6 @@ public class Denomination {
     return value;
   }
 
-  public void setValue(int value) {
-    this.value = value;
-  }
-
   public int getCount() {
     return count;
   }
