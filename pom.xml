@@ -120,4 +120,11 @@
         </plugins>
     </build>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/{your_github_org}/{your_github_repo_name}</url>
+        </repository>
+    </distributionManagement>
 </project>
