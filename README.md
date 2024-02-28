@@ -2,7 +2,7 @@
 
 This application, developed in Java 17, utilizes the command design pattern to handle user commands effectively.
 
-## Main Classes
+## Classes
 
 ### HorseTrackCLI
 This class is responsible for handling user input and interacting with other components of the application.
